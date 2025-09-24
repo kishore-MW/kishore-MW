@@ -87,7 +87,7 @@ Aspiring data science professional passionate about building intelligent agents 
 
 ### 📈 GitHub Stats
 
-![YourUsername's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=true&hide_rank=false)
+![YourUsername's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishore-MW&show_icons=true&hide_title=true&hide_rank=false)
 
 ---
 
