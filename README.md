@@ -43,26 +43,26 @@ Aspiring data science professional passionate about building intelligent agents 
 
 ### 🎓 Education
 
-- **MBA, Business Analytics**  
+**MBA, Business Analytics**  
   Saveetha Engineering College, Chennai (2021–2023) | CGPA: 8.1
 
-- **BCA, Computer Applications**  
+**BCA, Computer Applications**  
   Guru Nanak College, Chennai (2018–2021) | CGPA: 8.4
 
 ---
 
 ### 🗂️ Major Projects
 
-- **Multimodal RAG Chatbot (MaintWiz, 2025)**
+###### **Multimodal RAG Chatbot (MaintWiz, 2025)**
   - Full-stack docQA system with PDF/scanned document support
   - OCR integration, advanced embedding/retrieval with AWS Titan & OpenAI
   - Modular pipeline, prompt selection, multilingual scalable architecture
 
-- **Text-to-SQL RAG System**
+###### **Text-to-SQL RAG System**
   - Converts natural language to SQL queries for enterprise databases
   - Dual-stage LLMs, embedding, LangGraph orchestration, agentic workflow
 
-- **Time Series Forecasting**
+###### **Time Series Forecasting**
   - LSTM & ARIMA models for market and financial predictions
   - Market trend analysis, privacy-first analytics
 
