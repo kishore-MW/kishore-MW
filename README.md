@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- I'm currently working in Maintwiz_technologies
+- I'm currently learning Python
+- I'm looking ofr opensource project
+  
 <!--
 **kishore-MW/kishore-MW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->`  
