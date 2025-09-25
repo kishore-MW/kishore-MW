@@ -54,17 +54,17 @@ Aspiring data science professional passionate about building intelligent agents 
 ### 🗂️ Major Projects
 
 ###### **Multimodal RAG Chatbot (MaintWiz, 2025)**
-  - Full-stack docQA system with PDF/scanned document support
-  - OCR integration, advanced embedding/retrieval with AWS Titan & OpenAI
-  - Modular pipeline, prompt selection, multilingual scalable architecture
+Full-stack docQA system with PDF/scanned document support
+OCR integration, advanced embedding/retrieval with AWS Titan & OpenAI
+Modular pipeline, prompt selection, multilingual scalable architecture
 
 ###### **Text-to-SQL RAG System**
-  - Converts natural language to SQL queries for enterprise databases
-  - Dual-stage LLMs, embedding, LangGraph orchestration, agentic workflow
+Converts natural language to SQL queries for enterprise databases
+Dual-stage LLMs, embedding, LangGraph orchestration, agentic workflow
 
 ###### **Time Series Forecasting**
-  - LSTM & ARIMA models for market and financial predictions
-  - Market trend analysis, privacy-first analytics
+LSTM & ARIMA models for market and financial predictions
+Market trend analysis, privacy-first analytics
 
 ---
 
